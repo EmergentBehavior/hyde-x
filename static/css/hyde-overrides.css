@@ -9,6 +9,10 @@
   font-size: 2.5rem;
 }
 
+.sidebar-about img {
+  border-radius: 100%;
+}
+
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
